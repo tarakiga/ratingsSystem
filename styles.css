@@ -1,0 +1,20 @@
+/* Your CSS styles here */
+.rating-component {
+    margin-bottom: 20px;
+  }
+  
+  .stars {
+    font-size: 24px;
+  }
+  
+  .stars span {
+    display: inline-block;
+    margin-right: 5px;
+    cursor: pointer;
+    color: black;
+  }
+  
+  .stars span.selected {
+    color: yellow;
+  }
+  
